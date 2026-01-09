@@ -1,14 +1,14 @@
 # DZIENNIK BADACZA (wersja robocza)
 
-To jest zwykły plik tekstowy. Albo... prawie zwykły.
+To jest zwykły plik tekstowy. Albo... niemal zwykły.
 W kolejnych wersjach ktoś wprowadzał drobne poprawki językowe.
 
 Zasady:
 - Nie zmieniaj historii.
-- Sprawdzaj różnice (diff).
+- Sprawdzaj różnice (diff) między wersjami.
 - Zwracaj uwagę na dopiski na końcu linii.
 
 Notatka:
 W laboratorium AI czasem najważniejsze informacje są ukryte w zmianach.
 
-WSKAZÓWKA: (tu pojawi się coś w przyszłości)
+WSKAZÓWKA: (tu pojawi się coś w przyszłości) [CZYTAJ]
