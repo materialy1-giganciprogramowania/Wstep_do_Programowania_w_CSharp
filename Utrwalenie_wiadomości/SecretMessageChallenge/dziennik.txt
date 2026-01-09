@@ -11,4 +11,4 @@ Zasady:
 Notatka:
 W laboratorium AI czasem najważniejsze informacje są ukryte w zmianach.
 
-WSKAZÓWKA: (tu pojawi się coś w przyszłości) [CZYTAJ] [HISTORIĘ] [PLIKU] [NA]
+WSKAZÓWKA: (tu pojawi się coś w przyszłości) [CZYTAJ] [HISTORIĘ] [PLIKU] [NA] [GITHUBIE]
