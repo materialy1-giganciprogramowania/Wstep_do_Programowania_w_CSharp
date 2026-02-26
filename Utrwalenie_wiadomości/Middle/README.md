@@ -64,6 +64,8 @@ Poniższy zestaw zawiera 9 zadań o rosnącym poziomie trudności. Każde zadani
 
 **Wymagania:** Stwórz Queue<string> ze spisem jednostek w grze. Symuluj kolejkę tur w trakcie walki.
 
+**⭐**  Dodaj komunikat, gdy nie ma już ruchów do cofnięcia.
+
 ---
 
 ## 💻 Zadanie 6 – Budynki i polimorfizm (max 3 pkt) 🟠 
